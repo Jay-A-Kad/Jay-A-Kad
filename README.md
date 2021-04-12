@@ -10,6 +10,6 @@
 
 <div align="center">
 
-![First](doc/j-k.gif)
+  ![First](doc/profile-bash.mp4)
 
 </div>
