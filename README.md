@@ -19,6 +19,6 @@ Hi, I'm Jay 👋
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 
-## Get in Touch
+### Get in Touch
 
-I'm always open to connecting with other developers and collaborating on game projects. If you have an idea, an opportunity, or just want to talk .NET or Unity, feel free to reach out at [jaykad982@gmail.com](mailto:jaykad982@gmail.com).
+<sub>Open to connecting and collaborating on game projects. Reach me at <a href="mailto:jaykad982@gmail.com">jaykad982@gmail.com</a>.</sub>
