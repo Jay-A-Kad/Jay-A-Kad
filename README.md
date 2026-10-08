@@ -4,8 +4,6 @@ Hi, I'm Jay 👋
 
 ## Tech Stack
 
-## Tech Stack
-
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square)
 ![.NET](https://img.shields.io/badge/.NET%20%2F%20ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Web APIs](https://img.shields.io/badge/Web%20APIs-009688?style=flat-square)
@@ -19,3 +17,8 @@ Hi, I'm Jay 👋
 ![Testing](https://img.shields.io/badge/Testing%20%26%20Observability-4B5563?style=flat-square)
 ![Unity](https://img.shields.io/badge/Unity%20%2F%20XR-000000?style=flat-square&logo=unity&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+
+## Get in Touch
+
+I'm always open to connecting with other developers and collaborating on game projects. If you have an idea, an opportunity, or just want to talk .NET or Unity, feel free to reach out at [jaykad982@gmail.com](mailto:jaykad982@gmail.com).
