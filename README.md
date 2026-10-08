@@ -2,7 +2,7 @@
 
 Hi, I'm Jay 👋
 
-## Tech Stack
+### Tech Stack
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square)
 ![.NET](https://img.shields.io/badge/.NET%20%2F%20ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
