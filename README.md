@@ -1,6 +1,6 @@
 ## Hi, I'm Jay 👋
 
-[Portfolio](https://jay-a-kad.github.io) · [LinkedIn](https://www.linkedin.com/in/jay-kadam-27720416a) · [itch.io](https://jkadam.itch.io) 
+[LinkedIn](https://www.linkedin.com/in/jay-kadam-27720416a) | [Game Portfolio](https://jay-a-kad.github.io) | [itch.io](https://jkadam.itch.io) 
 ### Tech Stack
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square)
