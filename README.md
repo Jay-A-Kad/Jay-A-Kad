@@ -1,6 +1,6 @@
+## Hi, I'm Jay 👋
 
-
-Hi, I'm Jay 👋
+[Portfolio](https://jay-a-kad.github.io) · [LinkedIn](https://www.linkedin.com/in/jay-kadam-27720416a) · [itch.io](https://jkadam.itch.io) · [Email](mailto:jaykad982@gmail.com)
 
 ### Tech Stack
 
@@ -18,7 +18,6 @@ Hi, I'm Jay 👋
 ![Unity](https://img.shields.io/badge/Unity%20%2F%20XR-000000?style=flat-square&logo=unity&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-
 ### Get in Touch
 
-<sub>Open to connecting and collaborating on game projects. Reach me at <a href="mailto:jaykad982@gmail.com">jaykad982@gmail.com</a>.</sub>
+Open to connecting and collaborating. Reach me at [jaykad982@gmail.com](mailto:jaykad982@gmail.com).
